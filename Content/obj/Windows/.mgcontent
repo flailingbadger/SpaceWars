@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/torpedo.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/xWingFighter.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/vaderFighter.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/space.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/tieFighter.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/xWingFighter3.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/SpriteFont1.spritefont</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/Fonts/SpriteFont1.spritefont</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/endGameState.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/startGameState.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/shuttle.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/han.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/leia.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/luke.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/breath.wav</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/loser.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/winner.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/VaderBreath.wav</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/VaderBreathmp3.mp3</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/trap.mp3</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/openmp3.mp3</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/vaderThememp3.mp3</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/SW1.png</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/Fonts/SpriteFont2.spritefont</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/Fonts/SpriteFont3.spritefont</File>
+    <File>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/PowerOTDS.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

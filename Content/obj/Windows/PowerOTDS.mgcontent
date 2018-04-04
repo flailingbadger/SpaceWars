@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/PowerOTDS.mp3</SourceFile>
+  <SourceTime>2017-12-03T02:12:10.4152327-07:00</SourceTime>
+  <DestFile>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/bin/Windows/PowerOTDS.xnb</DestFile>
+  <DestTime>2017-12-03T02:14:52.0856585-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/melinda/Documents/2410/SpaceWars/SpaceWars/Content/bin/Windows/PowerOTDS.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
